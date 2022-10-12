@@ -1,0 +1,16 @@
+body{
+    background-color: #F0F0F0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: black; 
+    text-align: center;
+ }
+ #Topic{
+    font-size: 60px;
+}
+
+#Regis{
+    background-color: #FFFFFF;
+    width: 45%;
+    height: 500px;
+}
